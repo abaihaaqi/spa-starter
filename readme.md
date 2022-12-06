@@ -11,15 +11,15 @@ Di template ini sudah terinstal :
 
 ## Cara untuk menggunakan template
 
+- Ubah "my-project" ke nama projek kamu
+
 ```bash
-// Ubah "my-project" ke nama projek kamu
 npx degit abaihaaqi/spa-starter my-project
 ```
 
-- Tulis nama projek kamu dan versinya
+- Tulis nama projek kamu dan versinya dalam package.json
 
 ```
-// dalam package.json
 {
     "name": "my-project",
     "version": "0.0.0"
